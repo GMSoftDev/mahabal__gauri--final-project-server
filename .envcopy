@@ -1,0 +1,6 @@
+PORT=3000
+saltRounds=10
+privateKey='veryprivatekey
+expirySeconds='10m'
+usersDbPath='./data/users.json'
+contactsDbPath='./data/contacts.json'
